@@ -1,1 +1,1 @@
-# odin-recipes
+This is a repository of Odin Projects
